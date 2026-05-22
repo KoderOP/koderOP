@@ -19,11 +19,16 @@ Here are some ideas to get you started:
 
 ### Open Source Contributor @GSSoc'26 | Building Scalable Web Apps | Ex-Data Analyst Intern | CS Undergrad @2nd yr
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3Ztc2V6bXY0N3RyeWZ3Z3N0YndwNDB4YTBpazh6Ym94ZXFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b98b9O30H8TOE/giphy.gif" width="35" height="35" /> GitHub Stats!
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3Ztc2V6bXY0N3RyeWZ3Z3N0YndwNDB4YTBpazh6Ym94ZXFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b98b9O30H8TOE/giphy.gif" width="85" height="80" /> GitHub Stats!
+
+## ![Data Globe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3Ztc2V6bXY0N3RyeWZ3Z3N0YndwNDB4YTBpazh6Ym94ZXFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b98b9O30H8TOE/giphy.gif) GitHub Stats!
+
+![KoderOP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="KoderOP's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="KoderOP's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
 
 #### ⚡ Weekly Coding Metrics & Data Breakdown
@@ -35,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&layout=compact)
 ---
 
 ## 💻 Skills that make me TECH-SAVVY
@@ -60,7 +66,7 @@ Here are some ideas to get you started:
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ### Backend Development
-[![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodesdotjs&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
@@ -71,9 +77,9 @@ Here are some ideas to get you started:
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA4F01.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97628?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
 
 ### AI/ML
@@ -86,12 +92,46 @@ Here are some ideas to get you started:
 ### DevOps & IDEs
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📋 Others:
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-%23005EA2.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+
+### 👩🏻‍💻 Coding
+![Coding](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=20&duration=1&pause=1&color=FF69B4&vCenter=true&width=400&height=35&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white)](https://www.naukri.com/code360/profile/YOUR_CODING_NINJAS_USERNAME)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
+
+### 👩🏻‍💻 Coding
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&background=FF149300&width=450&height=40&lines=Compiling+Joy...;Debugging+Stress...;Crafting+Logic+into+Art+%E2%9C%A8)](https://git.io/typing-svg)
+
+<p align="left">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" /></a>
+  <a href="https://www.naukri.com/code360/profile/YOUR_CODING_NINJAS_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a>
+  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" /></a>
+</p>
+
+### 👩🏻‍💻 Coding
+
+![Coding Joy](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=450&height=35&lines=Compiling+Joy+%26+Debugging+Stress)
+
+<br/>
+
+<p align="left">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" height="28" /></a>&nbsp;
+  <a href="https://www.naukri.com/code360/profile/YOUR_CODING_NINJAS_USERNAME"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=flat-square&logo=coding-ninjas&logoColor=white" height="28" /></a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="28" /></a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" height="28" /></a>
+</p>
+
+
+
