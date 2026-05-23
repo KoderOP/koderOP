@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=I'm+KoderOP;I'm+a+Full+Stack+Developer;I'm+a+Graphic+Designer;I+love+building+apps;I'm+a+data+analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=I'm+HarshitaArora;I'm+a+Full+Stack+Developer;I'm+a+Graphic+Designer;I+love+building+apps;I'm+a+data+analyst" alt="Typing SVG" />
 </a>
 
 ### Open Source Contributor @GSSoc'26 | Building Scalable Web Apps | Ex-Data Analyst Intern | CS Undergrad @2nd yr
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3Ztc2V6bXY0N3RyeWZ3Z3N0YndwNDB4YTBpazh6Ym94ZXFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b98b9O30H8TOE/giphy.gif" width="85" height="80" /> GitHub Stats!
-
-## ![Data Globe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwZ3Ztc2V6bXY0N3RyeWZ3Z3N0YndwNDB4YTBpazh6Ym94ZXFubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b98b9O30H8TOE/giphy.gif) GitHub Stats!
-
+<!--
 ![KoderOP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical)
 
@@ -30,8 +26,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="KoderOP's GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
-
-#### ⚡ Weekly Coding Metrics & Data Breakdown
+-->
+#### ⚡ Weekly Metrics
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoderOP&theme=radical" alt="KoderOP's Streak Stats" height="180" />
 </p>
@@ -40,7 +36,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&layout=compact)
 ---
 
 ## 💻 Skills that make me TECH-SAVVY
@@ -103,35 +98,13 @@ Here are some ideas to get you started:
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-%23005EA2.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 
 ### 👩🏻‍💻 Coding
-![Coding](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=20&duration=1&pause=1&color=FF69B4&vCenter=true&width=400&height=35&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white)](https://www.naukri.com/code360/profile/YOUR_CODING_NINJAS_USERNAME)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/)
-
-### 👩🏻‍💻 Coding
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&duration=3000&pause=1000&color=FF69B4&background=FF149300&width=450&height=40&lines=Compiling+Joy...;Debugging+Stress...;Crafting+Logic+into+Art+%E2%9C%A8)](https://git.io/typing-svg)
-
+![Coding Joy](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=780&height=22&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art+✨)
+<br>
 <p align="left">
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" /></a>
   <a href="https://www.naukri.com/code360/profile/YOUR_CODING_NINJAS_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a>
   <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" /></a>
 </p>
-
-### 👩🏻‍💻 Coding
-
-![Coding Joy](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=450&height=35&lines=Compiling+Joy+%26+Debugging+Stress)
-
-<br/>
-
-<p align="left">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" height="28" /></a>&nbsp;
-  <a href="https://www.naukri.com/code360/profile/YOUR_CODING_NINJAS_USERNAME"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=flat-square&logo=coding-ninjas&logoColor=white" height="28" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" height="28" /></a>&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=geeksforgeeks&logoColor=white" height="28" /></a>
-</p>
-
 
 
