@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 ### 👩🏻‍💻 Coding
 
-![Coding Joy](https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=450&height=35&lines=Compiling+Joy+%26+Debugging+Stress)
+![Coding Joy](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=450&height=35&lines=Compiling+Joy+%26+Debugging+Stress)
 
 <br/>
 
