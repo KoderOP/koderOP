@@ -18,24 +18,41 @@ Here are some ideas to get you started:
 </a>
 
 ### Open Source Contributor @GSSoc'26 | Building Scalable Web Apps | Ex-Data Analyst Intern | CS Undergrad @2nd yr
-<!--
-![KoderOP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="KoderOP's GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
--->
+
+
 #### ⚡ Weekly Metrics
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoderOP&theme=radical" alt="KoderOP's Streak Stats" height="180" />
 </p>
 
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=flat-square" alt="Profile Views" />
 </p>
 
+---
+## About Me
+
+```cpp
+const Harshita_Arora = {
+  pronouns: "She" | "Her",
+  code: ["C++", "Python", "MySQL"],
+  askMeAbout: ["AI/ML", "Designing", "Food", "Poetry", "GitHub"],
+  tech: {
+      frontend: ["HTML", "CSS", "JavaScript", "React"],
+      backend: ["Node.js", "MySQL", "APIs", "Django"],
+      databases: [MySQL, MongoDB]
+      visualisation tools: [Power BI, Tableau, Anaconda]
+  }
+};
+
+```
 ---
 
 ## 💻 Skills that make me TECH-SAVVY
