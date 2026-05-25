@@ -13,20 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg">
+<p align="center">
+<a href="https://git.io/typing-svg" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=I'm+HarshitaArora;I'm+a+Full+Stack+Developer;I'm+a+Graphic+Designer;I+love+building+apps;I'm+a+data+analyst" alt="Typing SVG" />
 </a>
-
-### Open Source Contributor @GSSoc'26 | Building Scalable Web Apps | Ex-Data Analyst Intern | CS Undergrad @2nd yr
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="KoderOP's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Langs" height="170" />
 </p>
+
+<h3 align="center" style="color: #0076FF;"> Open Source Contributor @GSSoc'26 | Building Scalable Web Apps | Ex-Data Analyst Intern | CS Undergrad @2nd yr</h3>
 
 
 #### ⚡ Weekly Metrics
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoderOP&theme=radical" alt="KoderOP's Streak Stats" height="180" />
 </p>
 
