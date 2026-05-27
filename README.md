@@ -119,6 +119,9 @@ const Harshita_Arora = {
   <a href="https://www.naukri.com/code360/profile/f870058b-a034-45fb-8372-e3bdde6d8344" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a>
   <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" /></a>
+  <a href="https://hackindia.org/" target="_blank">
+  <img src="https://img.shields.io/badge/HackIndia-FF5722?style=for-the-badge&logo=target&logoColor=white" height="35" />
+</a>
 </p>
 
 
