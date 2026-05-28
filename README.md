@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<h3 align="center" style="color: #0076FF;"> Open Source Contributor @GSSoc'26 | Building Scalable Web Apps | Ex-Data Analyst Intern | CS Undergrad @2nd yr</h3>
+<h3 align="center"> Open Source Contributor @GSSoc'26 | Python, SQL, PowerBI, Tableau | Analyst and Strategist | CS Undergrad 2nd yr @ SSCBS </h3>
 
 
 #### ⚡ Weekly Metrics
