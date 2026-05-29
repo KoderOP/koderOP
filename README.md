@@ -21,19 +21,16 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Open Source Contributor @GSSoc'26 | Python, SQL, PowerBI, Tableau | Analyst and Strategist | CS Undergrad 2nd yr @ SSCBS </h3>
 
-
-#### ⚡ Weekly Metrics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoderOP&theme=radical" alt="KoderOP's Streak Stats" height="180" />
 </p>
 
 
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=flat-square" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=plastic" alt="Profile Views" />
 </p>
 
----
+
 ## About Me
 
 ```cpp
@@ -42,7 +39,7 @@ const Harshita_Arora = {
   code: ["C++", "Python", "MySQL"],
   askMeAbout: ["AI/ML", "Designing", "Food", "Poetry", "GitHub"],
   tech: {
-      frontend: ["HTML", "CSS", "JavaScript", "React"],
+      frontend: ["HTML", "CSS", "Flutter"],
       backend: ["Node.js", "MySQL", "APIs", "Django"],
       databases: [MySQL, MongoDB]
       visualisation tools: [Power BI, Tableau, Anaconda]
@@ -61,10 +58,12 @@ const Harshita_Arora = {
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Prolog](https://img.shields.io/badge/Prolog-%2374283C.svg?style=for-the-badge&logo=prolog&logoColor=white)](https://www.swi-prolog.org/)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 ### Frontend Development
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -111,17 +110,27 @@ const Harshita_Arora = {
 [![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-%23005EA2.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
 
+---
+
 ### 👩🏻‍💻 Coding
 ![Coding Joy](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=780&height=22&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art+✨)
 <br>
 <p align="left">
+  
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" /></a>
-  <a href="https://www.naukri.com/code360/profile/f870058b-a034-45fb-8372-e3bdde6d8344" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a>
+  
+  <a href="https://www.naukri.com/code360/profile/aroraharshita" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a> 
+  
   <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
+  
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" /></a>
+  
   <a href="https://hackindia.org/profile/harshita" target="_blank">
   <img src="https://img.shields.io/badge/HackIndia-FF5722?style=for-the-badge&logo=target&logoColor=white" height="35" />
 </a>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="Harshita's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
