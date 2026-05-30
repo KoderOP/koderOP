@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+36BCF7-->
 
 <p align="center">
 <a href="https://git.io/typing-svg" >
@@ -22,16 +22,44 @@ Here are some ideas to get you started:
 <h3 align="center"> Open Source Contributor @GSSoc'26 | Python, SQL, PowerBI, Tableau | Analyst and Strategist | CS Undergrad 2nd yr @ SSCBS </h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoderOP&theme=radical" alt="KoderOP's Streak Stats" height="180" />
+   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=00FF41&style=plastic" alt="Profile Views" />
 </p>
 
+
+## 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=plastic" alt="Profile Views" />
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=KoderOP&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
+## 💡 Top Languages
 
-## About Me
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KoderOP&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KoderOP&theme=nord&no-frame=true&row=2&column=4"/>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/KoderOP">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoderOP&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
+## ⌨️ About Me
 
 ```cpp
 const Harshita_Arora = {
@@ -118,19 +146,10 @@ const Harshita_Arora = {
 <p align="left">
   
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" /></a>
-  
   <a href="https://www.naukri.com/code360/profile/aroraharshita" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a> 
-  
   <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
-  
   <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" /></a>
-  
   <a href="https://hackindia.org/profile/harshita" target="_blank">
   <img src="https://img.shields.io/badge/HackIndia-FF5722?style=for-the-badge&logo=target&logoColor=white" height="35" />
 </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoderOP&show_icons=true&theme=radical" alt="Harshita's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
