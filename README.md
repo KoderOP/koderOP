@@ -11,7 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-36BCF7-->
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KoderOP&theme=nord&no-frame=true&row=2&column=4"/>
+</p>
+
+color for profile views 36BCF7-->
 
 <p align="center">
 <a href="https://git.io/typing-svg" >
@@ -45,17 +51,11 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=KoderOP&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KoderOP&theme=nord&no-frame=true&row=2&column=4"/>
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
   <a href="https://github.com/KoderOP">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoderOP&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoderOP&custom_title=Activity%20Graph&bg_color=DCDCDC&color=7C3AED&line=FFCCFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
   </a>
 </p>
 
@@ -129,6 +129,7 @@ const Harshita_Arora = {
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
 
 ### Others
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
