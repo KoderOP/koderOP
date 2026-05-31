@@ -64,8 +64,8 @@ color for profile views 36BCF7-->
 ```cpp
 const Harshita_Arora = {
   pronouns: "She" | "Her",
-  code: ["C++", "Python", "MySQL"],
-  askMeAbout: ["AI/ML", "Designing", "Food", "Poetry", "GitHub"],
+  code: ["C++", "Python", "MySQL", "TypeScript"],
+  askMeAbout: ["Food", "AI", "RAG", "LangChain", "Designing", "Poetry"],
   tech: {
       frontend: ["HTML", "CSS", "Flutter"],
       backend: ["Node.js", "MySQL", "APIs", "Django"],
