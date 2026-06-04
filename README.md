@@ -150,7 +150,7 @@ const Harshita_Arora = {
 ---
 
 ### 👩🏻‍💻 Coding
-![Coding Joy](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=780&height=22&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art+✨)
+![Coding](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=780&height=22&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art+✨)
 <br>
 <p align="left">
   
