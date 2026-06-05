@@ -28,9 +28,14 @@ color for profile views 36BCF7-->
 <h3 align="center"> Open Source Contributor @GSSoc'26 | Python, SQL, PowerBI, Tableau | Analyst and Strategist | CS Undergrad 2nd yr @ SSCBS </h3>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=00FF41&style=plastic" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=plastic" alt="Profile Views" />
 </p>
 
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KoderOP&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
 
 ---
 ## 💻 Skills that make me TECH-SAVVY
@@ -72,11 +77,7 @@ color for profile views 36BCF7-->
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
-## 🔥 Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KoderOP&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
-</p>
 
 ## 📈 Activity Graph
 
