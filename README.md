@@ -53,6 +53,18 @@ color for profile views 36BCF7-->
 [![n8n](https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/) 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+### Databases
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+### DevOps & IDEs
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+
 ### Frontend Development
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -66,53 +78,6 @@ color for profile views 36BCF7-->
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=KoderOP&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
-
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/KoderOP">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoderOP&custom_title=Activity%20Graph&bg_color=DCDCDC&color=7C3AED&line=FFCCFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
-## ⌨️ About Me
-```cpp
-const Harshita_Arora = {
-  pronouns: "She" | "Her",
-  code: ["C++", "Python", "MySQL", "TypeScript"],
-  askMeAbout: ["Food", "AI", "RAG", "LangChain", "Designing", "Poetry"],
-  tech: {
-      frontend: ["HTML", "CSS", "Flutter"],
-      backend: ["Node.js", "MySQL", "APIs", "Django"],
-      databases: [MySQL, MongoDB]
-      visualisation tools: [Power BI, Tableau, Anaconda]
-  }
-};
-
-```
----
-
-### Databases
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
 ### Data Analysis
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -131,18 +96,6 @@ const Harshita_Arora = {
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
 
-
-
-
-
-
-### DevOps & IDEs
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
-
 ### Others
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
@@ -150,6 +103,41 @@ const Harshita_Arora = {
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-%23005EA2.svg?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+
+---
+## 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/KoderOP">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KoderOP&custom_title=Activity%20Graph&bg_color=DCDCDC&color=7C3AED&line=FFCCFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=KoderOP&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## 💡 Top Languages
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## ⌨️ About Me
+```cpp
+const Harshita_Arora = {
+  pronouns: "She" | "Her",
+  code: ["C++", "Python", "MySQL", "TypeScript"],
+  askMeAbout: ["Food", "AI", "RAG", "LangChain", "Designing", "Poetry"],
+  tech: {
+      frontend: ["HTML", "CSS", "Flutter"],
+      backend: ["Node.js", "MySQL", "APIs", "Django"],
+      databases: [MySQL, MongoDB]
+      visualisation tools: [Power BI, Tableau, Anaconda]
+  }
+};
 
 ---
 
