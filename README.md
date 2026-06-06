@@ -25,7 +25,7 @@ color for profile views 36BCF7-->
 </a>
 </p>
 
-<h3 align="center"> Open Source Contributor @GSSoc'26 | Analyst and Strategist | CS Undergrad 2nd yr @ SSCBS </h3>
+<h3 align="center">AI Engineer • Open Source Contributor @ GSSoc'26 • CS Undergrad @ SSCBS</h3>
 
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=KoderOP&color=36BCF7&style=plastic" alt="Profile Views" />
