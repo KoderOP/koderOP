@@ -132,20 +132,21 @@ const Harshita_Arora = {
   code: ["C++", "Python", "MySQL", "TypeScript"],
   askMeAbout: ["Food", "AI", "RAG", "LangChain", "Designing", "Poetry"],
   tech: {
-      frontend: ["HTML", "CSS", "Flutter"],
-      backend: ["Node.js", "MySQL", "APIs", "Django"],
-      databases: [MySQL, MongoDB]
-      visualisation tools: [Power BI, Tableau, Anaconda]
+      frontend: [ "HTML" , "CSS" , "Flutter" ],
+      backend: [ "Node.js" , "MySQL" , "APIs" , "Django" ],
+      databases: [ "MySQL", " MongoDB" ],
+      visualizationTools: [ "Power BI", "Tableau", "Anaconda" ]
   }
 };
+```
 
----
+
 
 ### 👩🏻‍💻 Coding
 ![Coding](https://readme-typing-svg.demolab.com?font=Lucida+Handwriting&weight=700&size=21&duration=1&pause=1&color=FF1493&vCenter=true&width=780&height=22&lines=Compiling+Joy+and+Debugging+Stress+....+Crafting+Logic+into+Art+✨)
 <br>
-<p align="left">
-  
+
+<p align="left"> 
   <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="35" /></a>
   <a href="https://www.naukri.com/code360/profile/aroraharshita" target="_blank"><img src="https://img.shields.io/badge/Coding_Ninjas-F26522?style=for-the-badge&logo=coding-ninjas&logoColor=white" height="35" /></a> 
   <a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK_USERNAME" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" /></a>
