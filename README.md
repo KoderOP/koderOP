@@ -49,9 +49,10 @@ color for profile views 36BCF7-->
 [![Prolog](https://img.shields.io/badge/Prolog-%2374283C.svg?style=for-the-badge&logo=prolog&logoColor=white)](https://www.swi-prolog.org/)
 
 
-### AI Automation & Agents
+### Generative AI & Agentic AI Tools
 [![n8n](https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/) 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
