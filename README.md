@@ -53,6 +53,8 @@ color for profile views 36BCF7-->
 [![n8n](https://img.shields.io/badge/n8n-%23FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/) 
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![CrewAI](https://img.shields.io/badge/CrewAI-1E1E24?style=for-the-badge&logo=crewai&logoColor=white)](https://www.crewai.com/)
+
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -125,6 +127,9 @@ color for profile views 36BCF7-->
 <p align="center">
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
+
+
+
 
 ## ⌨️ About Me
 ```cpp
