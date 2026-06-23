@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KoderOP&theme=nord&no-frame=true&row=2&column=4"/>
 </p>
-
+## 💡 Top Languages
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
 color for profile views 36BCF7-->
 
 <p align="center">
@@ -124,14 +127,10 @@ color for profile views 36BCF7-->
   <img height="160" src="https://github-readmeapp.vercel.app/api?username=KoderOP&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
   <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
-<!--
 
-## 💡 Top Languages
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KoderOP&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
 
-!-->
+
+
 
 ---
 ## ⌨️ About Me
