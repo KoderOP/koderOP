@@ -24,7 +24,7 @@ color for profile views 36BCF7-->
 
 <p align="center">
 <a href="https://git.io/typing-svg" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=I'm+Harshita+Arora;I'm+Agentic+AI+Developer;I'm+a+Graphic+Designer;I+love+food;I'm+a+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=I'm+Harshita+Arora;I'm+Agentic+AI+Developer;I'm+a+Software+Developer;I+love+food+and+food+loves+me;I'm+a+Data+Analyst" alt="Typing SVG" />
 </a>
 </p>
 
